@@ -7,6 +7,5 @@ void main() {
         backgroundColor: Colors.teal,
         body: Container(),
       ),
-    ),
   );
 }
